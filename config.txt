@@ -1,0 +1,7 @@
+﻿token=NDgxMTc0MDIxMjEyMjA5MTYy.XPMy0w.5OBrlTi7atAYwDC2xJ5AwXKxOlw
+
+owner=471886678653599776
+prefix=L
+game=i love you
+stayinchannel=true 
+songinstatus=false 
